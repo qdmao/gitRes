@@ -1,1 +1,1 @@
-this is a test file of git.
+this is a test file.
